@@ -6,7 +6,7 @@
     },
     "description": "Helps encode and decode Unicode symbols as meaningful content that is encoded into 5-digit ternary math using notation. Useful for compressing meaning into symbolic Unicode.",
     "image": "//meta-q.cdn.bubble.io/f1752026760297x661489135288422200/IMG_0556.JPG",
-    "link": "https://github.com/AceTheDactyl/Sigil-Reader/blob/main/balanced-ternary-sigil-reader.html",
+    "link": "https://github.com/AceTheDactyl/Bubble-Plugin-Ternary-Sigil-Decoder",
     "name": "Ternary Sigil Decoder",
     "plugin_instructions": "Enter 5 digits to convert into a glyph or enter glyphs to encode as ternary. "
 }
